@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "id": "bun", "name": "Cinnamon bun", "price": 3.5, "diets": [] },
+    { "id": "soup", "name": "Salmon soup with rye bread", "price": 13.9, "diets": ["gluten-free"] },
+    { "id": "pie", "name": "Karelian pie with egg butter", "price": 2.9, "diets": ["lactose-free"] },
+    { "id": "blueberry", "name": "Blueberry pie", "price": 4.2, "diets": [] },
+    { "id": "salad", "name": "Lunch salad", "price": 11.5, "diets": ["vegan", "gluten-free"] },
+    { "id": "latte", "name": "Oat latte", "price": 4.8, "diets": ["vegan"] },
+    { "id": "coffee", "name": "Filter coffee", "price": 2.5, "diets": ["vegan", "gluten-free"] },
+    { "id": "special", "name": "Cake of the day", "price": null, "diets": [] }
+  ]
+}
